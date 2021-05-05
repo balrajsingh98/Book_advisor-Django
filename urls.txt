@@ -1,0 +1,8 @@
+advisor/register - Register Advisor
+
+user/register
+user/login
+user/logout
+user/advisor
+user/bookadvisor
+user/bookinghistory
